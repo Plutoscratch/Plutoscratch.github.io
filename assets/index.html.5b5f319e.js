@@ -1,0 +1,1 @@
+import{_ as r,r as t,o as n,a as s,b as a,d as c,f as e}from"./app.5fbc7a0c.js";const _={},d=e("2020-2022 \u51A5\u738B\u661F Powered By "),l={href:"https://vuepress.vuejs.org/zh/",target:"_blank",rel:"noopener noreferrer"},p=e("VuePress");function f(i,h){const o=t("ExternalLinkIcon");return n(),s("p",null,[d,a("a",l,[p,c(o)])])}var u=r(_,[["render",f]]);export{u as default};
